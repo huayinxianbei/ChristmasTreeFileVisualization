@@ -9,7 +9,7 @@
 # 🎄 Santa 2025 · Tree Packing Visualizer
 https://www.kaggle.com/competitions/santa-2025
 ---
-<img width="1237" height="827" alt="image" src="https://github.com/user-attachments/assets/075fc61f-9f3a-4326-a6c9-7f436de6eb40" />
+<img width="1233" height="823" alt="image" src="https://github.com/user-attachments/assets/7daafcfe-0e0b-4a12-a60e-37ed34b965bb" />
 
 
 ## 📖 Overview
@@ -76,7 +76,9 @@ total_score = Σ score(group)
 - Hover interaction:
   - Highlight tree
   - Show raw CSV row data
-<img width="1231" height="794" alt="image" src="https://github.com/user-attachments/assets/483f273a-722f-4adc-acee-50d136d82873" />
+
+<img width="1234" height="801" alt="image" src="https://github.com/user-attachments/assets/7545db67-4d83-473c-b6bf-289d194a1072" />
+
 
 ---
 
@@ -143,7 +145,7 @@ https://www.kaggle.com/competitions/santa-2025
 
 
 ---
-<img width="1233" height="825" alt="image" src="https://github.com/user-attachments/assets/cb986264-7a60-43f7-8104-b99c36bcf2f3" />
+<img width="1230" height="822" alt="image" src="https://github.com/user-attachments/assets/3bbf804a-4b7a-4452-97a3-eb18d0ff5d2a" />
 
 
 ## 📖 项目简介
@@ -208,7 +210,7 @@ total_score = Σ score(group)
 - 鼠标悬停：
   - 高亮当前树
   - 显示该树对应的 CSV 原始行数据
-<img width="1238" height="795" alt="image" src="https://github.com/user-attachments/assets/c3142464-8199-4586-9ebb-90754abb2f0b" />
+<img width="1239" height="796" alt="image" src="https://github.com/user-attachments/assets/028fc604-4a40-4394-8501-905be76ec81f" />
 
 ---
 
