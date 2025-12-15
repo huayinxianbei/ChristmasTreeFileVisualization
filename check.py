@@ -756,17 +756,6 @@ class TreePackingGUI(tk.Tk):
                 ])
                 self.ax.add_patch(patch)
 
-                # star at top tip
-                tip_k = max(range(len(y)), key=lambda k: y[k])
-                self.ax.scatter(
-                    [x[tip_k]], [y[tip_k]],
-                    marker="*", s=130,
-                    color="#FFD166",
-                    edgecolors="#1F1F2E",
-                    linewidths=0.8,
-                    zorder=6
-                )
-
                 rid = str(r["id"])
                 meta = {
                     "idx": i,
